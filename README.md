@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="kiro.jpg" alt="Kiro" width="220" />
+</p>
+
 # edu-papirus-dark-tela-grey
 
 Grey-folder variant of `edu-papirus-dark-tela` — Papirus dark icon set with grey Tela folder icons swapped in. Part of the `~/EDU/` icon-theme series.
